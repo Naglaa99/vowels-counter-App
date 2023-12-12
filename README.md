@@ -8,5 +8,7 @@
 
 
 
-![preview img]()
-![preview img]()
+![preview img](./preview%20screen/desk.png)
+![preview img](./preview%20screen/mob.png)
+
+# Demo : 
